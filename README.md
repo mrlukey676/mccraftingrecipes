@@ -1,0 +1,2 @@
+# mccraftingrecipes
+Minecraft data pack
